@@ -3,12 +3,14 @@ body {
 }
 
 #clock {
-  height: 100%;
+  height: 50vh;
   position: absolute;
   font-family: Orbitron;
   color: white;
   font-weight: 800;
   letter-spacing: 7px;
   width: 100vw;
-  font-size: 18vh;
+  font-size: 25vh;
+  text-align: center;
+  margin-top: 30vh;
 }
